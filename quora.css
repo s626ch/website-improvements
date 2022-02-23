@@ -1,0 +1,7 @@
+.q-box .q-flex.qu-alignItems--center.qu-justifyContent--center.qu-overflow--hidden.qu-zIndex--blocking_wall,
+.content-monetization-wall .q-relative.qu-display--flex.qu-flexDirection--column.qu-cursor--default.qu-overflowY--hidden .q-box .q-absolute.qu-fullX.qu-zIndex--qtext_overlay,
+.content-monetization-wall .q-relative.qu-display--flex.qu-flexDirection--column.qu-cursor--default.qu-overflowY--hidden .q-box.qu-zIndex--inline_overlay
+{display:none!important;}
+.q-box .q-box.qu-overflow--hidden:not(.qu-flex--auto) {filter:none!important;overflow-y:scroll;overflow-x:auto;}
+.q-box.qu-overflowY--hidden.OverlayCard___StyledBox-sc-1fdxtzr-0.ePDXbR {-webkit-mask-image: none!important;mask-image:none!important;}
+.CssComponent__CssInlineComponent-sc-1oskqb9-1.UserSelectableText___StyledCssInlineComponent-lsmoq4-0.kghFzc .q-text.qu-display--block.qu-wordBreak--break-word.qu-textAlign--start{cursor:text!important}
