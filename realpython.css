@@ -1,0 +1,6 @@
+.modal.fade.show#rprw,.modal-backdrop {
+    display:none!important;
+}
+.modal-open {
+    overflow: inherit;
+}
